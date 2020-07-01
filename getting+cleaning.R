@@ -4,6 +4,7 @@
 setwd("/Users/martinschultze/Desktop/R-stuff/RepData_PeerAssessment1")
 getwd()
 
+##Loading and preprocessing the data
 
 ##preparing dataset
 url<-"https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip"
